@@ -1,6 +1,9 @@
 # AI Search Project
+![README image](https://github.com/faridmmz/AI-Search-Python-Proj/blob/main/README_Image.jpg)
 
-This project is part of my university AI course and involves implementing different search algorithms for solving puzzles on a given board.
+Welcome to the first chapter of me uploading my university projects to my Git Hub! Hope you enjoy and apologies in advance for not having enough comments.
+This project is part of my university AI course and involves implementing different search algorithms for solving puzzles on a given board. 
+It might not be my best project but as a showcase of what I have done in many years of university here it is. Thank you very much to whoever is reading this I hope you don't get lost reading this and implementing your versions. Happy coding!
 
 ## Table of Contents
 
@@ -10,7 +13,6 @@ This project is part of my university AI course and involves implementing differ
 - [Test Cases](#test-cases)
 - [Algorithms](#algorithms)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -30,6 +32,8 @@ The project focuses on solving puzzles using various search algorithms. The puzz
 3. Navigate to the project directory.
 4. Run the program using the command: `python main.py`.
 5. Follow the on-screen instructions to input the board dimensions and cell values.
+
+* Or just use Google Colab!
 
 ## Test Cases
 
@@ -116,5 +120,4 @@ Each algorithm is implemented in the `Find.py` file.
 
 ## Contributing
 
-Contributions to this project are welcome! If you find any issues or have improvements to suggest, please feel free to open an issue or create a pull request.
-
+Any contribution to this project is welcome! If you find any issues or have improvements to suggest, please feel free to open an issue or create a pull request. Also, my email is visible in my profile so if you have any questions on these subjects don't hesitate to ask!
