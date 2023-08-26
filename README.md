@@ -38,27 +38,31 @@ The project includes several test cases to demonstrate the functionality of the 
 ### Test Case 1
 
 Input:
+```
 2 3
 s1 -7 -8
 *3 +6 g5
-
+```
 Output:
+```
 3
 1 1
 2 1
 2 2
-
+```
 
 ### Test Case 2
 
 Input:
+```
 4 4
 s1 *1 *10 *2
 *1 -10 -100 +10
 +5 *10 g100 +5
 *1 +5 +90 +10
-
+```
 Output:
+```
 6
 1 1
 2 1
@@ -66,11 +70,12 @@ Output:
 3 2
 4 2
 4 3
-
+```
 
 ### Test Case 3
 
 Input:
+```
 6 6
 s1 +9 *1 *1 *1 *1
 *5 +5 *1 *1 *1 *1
@@ -78,8 +83,9 @@ s1 +9 *1 *1 *1 *1
 -50 -50 w0 g100 w0 +10
 *1 *1 a10 -10 +10 +10
 +10 +10 b10 w0 -10 -100
-
+```
 Output:
+```
 14
 1 1
 1 2
@@ -95,7 +101,7 @@ Output:
 6 3
 5 3
 5 4
-
+```
 
 ## Algorithms
 
